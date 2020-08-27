@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/ghosind">
+<img src="https://github-readme-stats.vercel.app/api?username=ghosind" />
+</a>
+<a href="https://github.com/ghosind">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosind&layout=compact" />
+</a>
