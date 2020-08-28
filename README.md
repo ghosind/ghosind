@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/ghosind">
-<img src="https://github-readme-stats.vercel.app/api?username=ghosind" />
+<img src="https://github-readme-stats.vercel.app/api?username=ghosind&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/ghosind">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosind&layout=compact" />
