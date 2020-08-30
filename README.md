@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hi, I'm Chen Su, a software development engineer from China.
+
+- 🔭 I’m currently working on my project [dvm](https://github.com/ghosind/dvm).
+- 🌱 I'm currently learning [React](https://reactjs.org/), [Electron](https://www.electronjs.org/), and [Godot](https://godotengine.org/).
+
 <a href="https://github.com/ghosind">
 <img src="https://github-readme-stats.vercel.app/api?username=ghosind&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
