@@ -21,10 +21,10 @@ Hi, I'm Chen Su, a software development engineer from China.
 - 🌱 I'm currently learning [React](https://reactjs.org/), [Electron](https://www.electronjs.org/), and [Godot](https://godotengine.org/).
 
 <a href="https://github.com/ghosind">
-<img src="https://github-readme-stats.vercel.app/api?username=ghosind&count_private=true&show_icons=true&include_all_commits=true" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=ghosind&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/ghosind">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosind&layout=compact" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosind&layout=compact&langs_count=8" />
 </a>
 
 [![trophies](https://github-profile-trophy.vercel.app/?username=ghosind&column=7)](https://github.com/ghosind)
