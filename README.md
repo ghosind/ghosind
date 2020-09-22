@@ -26,3 +26,5 @@ Hi, I'm Chen Su, a software development engineer from China.
 <a href="https://github.com/ghosind">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosind&layout=compact" />
 </a>
+
+[![trophies](https://github-profile-trophy.vercel.app/?username=ghosind&column=7)](https://github.com/ghosind)
