@@ -28,3 +28,6 @@ Hi, I'm Chen Su, a software development engineer from China.
 </a>
 
 [![trophies](https://github-profile-trophy.vercel.app/?username=ghosind&column=7)](https://github.com/ghosind)
+
+[![ghosind's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ghosind&layout=compact)](https://github.com/ghosind)
+
