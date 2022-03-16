@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 Hi, I'm Chen Su, a software development engineer from China.
 
-- 🔭 I’m currently working on my project [dvm](https://github.com/ghosind/dvm).
-- 🌱 I'm currently learning [React](https://reactjs.org/), [Electron](https://www.electronjs.org/), and [Godot](https://godotengine.org/).
+<!-- - 🔭 I’m currently working on [dvm](https://github.com/ghosind/dvm) and [dolphin framework](https://github.com/ghosind/dolphin) projects.
+- 🌱 I'm currently learning [Rust](https://www.rust-lang.org/), [React](https://reactjs.org/), [Electron](https://www.electronjs.org/), and [Godot](https://godotengine.org/). -->
 
 <a href="https://github.com/ghosind">
 <img height="190" src="https://github-readme-stats.vercel.app/api?username=ghosind&count_private=true&show_icons=true&include_all_commits=true" />
@@ -27,7 +27,7 @@ Hi, I'm Chen Su, a software development engineer from China.
 <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosind&layout=compact&langs_count=8" />
 </a>
 
-[![trophies](https://github-profile-trophy.vercel.app/?username=ghosind&column=7)](https://github.com/ghosind)
+<!-- [![trophies](https://github-profile-trophy.vercel.app/?username=ghosind&column=7)](https://github.com/ghosind) -->
 
-[![ghosind's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ghosind&layout=compact)](https://github.com/ghosind)
+<!-- [![ghosind's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ghosind&layout=compact)](https://github.com/ghosind) -->
 
