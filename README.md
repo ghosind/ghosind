@@ -10,7 +10,7 @@ I'm seeking a good job, and [HERE](https://github.com/ghosind/resume) is my resu
 
 ### Tools
 
-<code><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" /><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-originasvg" /><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+<code><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" /><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
 
 ### Learning
 
@@ -19,10 +19,10 @@ I'm seeking a good job, and [HERE](https://github.com/ghosind/resume) is my resu
 ### Stats
 
 <a href="https://github.com/ghosind">
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=ghosind&count_private=true&show_icons=true&include_all_commits=true" />
+<img height="190" src="https://github-readme-stats-psi-amber.vercel.app/api?username=ghosind&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/ghosind">
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosind&layout=compact&langs_count=8" />
+<img height="190" src="https://github-readme-stats-psi-amber.vercel.app/api/top-langs/?username=ghosind&layout=compact&langs_count=8" />
 </a>
 
 <!-- [![trophies](https://github-profile-trophy.vercel.app/?username=ghosind&column=7)](https://github.com/ghosind) -->
