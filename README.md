@@ -7,9 +7,7 @@ I'm seeking a good job, and [HERE](https://github.com/ghosind/resume) is my resu
 ### Languages
 
 ![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-green?style=flat-square)
-
 ![English](https://img.shields.io/badge/English-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-green?style=flat-square)
-
 ![Françias](https://img.shields.io/badge/Fran%C3%A7ias-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-green?style=flat-square)
 
 ### Programming Languages
