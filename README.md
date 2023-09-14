@@ -2,7 +2,7 @@ Hi guys, welcome!
 
 I'm Chen Su, a backend software developer.
 
-I'm seeking a good job, and [HERE](https://github.com/ghosind/resume) is my resume. And I also working on my open source projects, please leave a star if you like them, thanks :smile:.
+I'm seeking a good job, and [HERE](https://github.com/ghosind/resume) is my resume. I also working on my open-source projects, please leave a star if you like them, thanks :smile:.
 
 ### Languages
 
@@ -25,7 +25,7 @@ I'm seeking a good job, and [HERE](https://github.com/ghosind/resume) is my resu
 ### Stats
 
 <a href="https://github.com/ghosind">
-<img height="190" src="https://github-readme-stats-psi-amber.vercel.app/api?username=ghosind&count_private=true&show_icons=true&include_all_commits=true" />
+<img height="190" src="https://github-readme-stats-psi-amber.vercel.app/api?username=ghosind&count_private=false&show_icons=true&include_all_commits=false" />
 </a>
 <a href="https://github.com/ghosind">
 <img height="190" src="https://github-readme-stats-psi-amber.vercel.app/api/top-langs/?username=ghosind&layout=compact&langs_count=8" />
