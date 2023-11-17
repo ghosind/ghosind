@@ -4,6 +4,8 @@ I'm Chen Su, a backend software developer.
 
 I'm seeking a good job, and [HERE](https://github.com/ghosind/resume) is my resume. I also working on my open-source projects, please leave a star if you like them, thanks :smile:.
 
+![](https://komarev.com/ghpvc/?username=ghosind)
+
 ### Languages
 
 ![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-green?style=flat-square)
