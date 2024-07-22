@@ -2,7 +2,7 @@ Hi guys, welcome!
 
 I'm Chen Su, a backend software developer.
 
-I'm seeking a good job, and [HERE](https://github.com/ghosind/resume) is my resume. I also working on my open-source projects, please leave a star if you like them, thanks :smile:.
+I'm seeking a good job, and [HERE](https://github.com/ghosind/resume) is my resume. I am also working on my open-source projects, please leave a star if you like them, thanks :smile:.
 
 ![](https://komarev.com/ghpvc/?username=ghosind)
 
@@ -22,7 +22,7 @@ I'm seeking a good job, and [HERE](https://github.com/ghosind/resume) is my resu
 
 ### Learning
 
-![Currently Learning](https://skillicons.dev/icons?i=cpp,rust,rabbitmq,k8s,flutter,godot,vue)
+![Currently Learning](https://skillicons.dev/icons?i=cpp,rust,elasticsearch,rabbitmq,k8s,flutter,godot,vue,pytorch)
 
 ### Stats
 
