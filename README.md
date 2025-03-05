@@ -14,15 +14,15 @@ I'm seeking a good job, and [HERE](https://github.com/ghosind/resume) is my resu
 
 ### Programming Languages
 
-![Programming Languages](https://skillicons.dev/icons?i=c,go,ts,js,bash,java,cs,cpp,latex)
+![Programming Languages](https://skillicons.dev/icons?i=c,go,ts,js,bash,java,cs,cpp)
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=linux,mysql,mongo,docker,nginx,redis,git,react,aws,k8s)
+![Tools](https://skillicons.dev/icons?i=linux,mysql,mongo,docker,nginx,redis,git,react,aws,k8s,latex)
 
 ### Learning
 
-![Currently Learning](https://skillicons.dev/icons?i=rust,elasticsearch,rabbitmq,flutter,godot,vue,pytorch)
+![Currently Learning](https://skillicons.dev/icons?i=rust,elasticsearch,rabbitmq,flutter,godot,vue,pytorch,swift)
 
 ### Stats
 
